@@ -4,4 +4,4 @@ Autor: Hugo Moura, A111215, <img width="600" height="600" alt="Image" src="https
 
 Resumo: Expressão regular que reconhece uma sequência {0,1}* que não contenha 011
 
-Lista de resultados: (1*|01)*0*
+Lista de resultados: (1*|01)* 0*
